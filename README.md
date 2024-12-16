@@ -1,1 +1,1 @@
-This is a website for diffrent job offers 
+This is a website for different job offers 
